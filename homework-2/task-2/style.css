@@ -1,0 +1,35 @@
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    box-sizing: border-box;
+    height: 300px;
+    width: 200px;
+    border: 1px solid gray;
+    margin: 20px;
+}
+
+h1  {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 70px;
+}
+
+p {
+    color: gray;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+button {
+    border: 1px solid black;
+    font-size: 16px;
+    height: 40px;
+    width: 120px;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
